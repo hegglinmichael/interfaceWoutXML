@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="SignInTitle">New Boston First Few Tutorials : SIGN IN</string>
+    <string name="LogInButtonText">Log In</string>
+</resources>
